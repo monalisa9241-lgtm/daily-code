@@ -131,13 +131,16 @@
     <ClCompile Include="CoinChange_BFS.cpp" />
     <ClCompile Include="CoinChange_ExactlyOnce.cpp" />
     <ClCompile Include="CoinChange_printActualCoinUsed.cpp" />
+    <ClCompile Include="color_sort_in_place.cpp" />
     <ClCompile Include="Count_Island.cpp" />
     <ClCompile Include="deleteNodeInSingleList_head_not_given.cpp" />
     <ClCompile Include="distributeCandies.cpp" />
+    <ClCompile Include="findMaxNumberofPattern.cpp" />
     <ClCompile Include="First_Last_Occurance_number.cpp" />
     <ClCompile Include="GasStation.cpp" />
     <ClCompile Include="Group_anagrams.cpp" />
     <ClCompile Include="HammingWeight.cpp" />
+    <ClCompile Include="InvalidTransaction.cpp" />
     <ClCompile Include="Invert_Binary_tree.cpp" />
     <ClCompile Include="Jump_to_the_END.cpp" />
     <ClCompile Include="K-sum_Subarrays.cpp" />
@@ -147,6 +150,7 @@
     <ClCompile Include="LRU_DLLD_hashmap_dummy.cpp" />
     <ClCompile Include="Meeting_Room.cpp" />
     <ClCompile Include="MergeInterval.cpp" />
+    <ClCompile Include="min_cost_climbing_stairs.cpp" />
     <ClCompile Include="min_element_digit_sum.cpp" />
     <ClCompile Include="Morris_Traversal.cpp" />
     <ClCompile Include="no_of_special_chars.cpp" />
@@ -158,6 +162,7 @@
     <ClCompile Include="RemoveNthNodeFromEnd.cpp" />
     <ClCompile Include="RotateArray.cpp" />
     <ClCompile Include="SearchInRotatedSortedArray.cpp" />
+    <ClCompile Include="sumOfLeftLeaves.cpp" />
     <ClCompile Include="sum_between_range_prefix.cpp" />
     <ClCompile Include="TopKFrequent_int.cpp" />
     <ClCompile Include="Tpo_k_frequent_strings.cpp" />
@@ -166,6 +171,7 @@
     <ClCompile Include="TreeTraversal_Preorder.cpp" />
     <ClCompile Include="Tree_traversal_BFS.cpp" />
     <ClCompile Include="Two-sum_sorted_closest_target.cpp" />
+    <ClCompile Include="TwoCityScheduling.cpp" />
     <ClCompile Include="Two_sum_sorted.cpp" />
     <ClCompile Include="Valid_Parenthesis.cpp" />
   </ItemGroup>
